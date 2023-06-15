@@ -1,0 +1,108 @@
+html {
+  background-color: white;
+}
+
+
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #5f820d;
+}
+
+header div h3:hover {
+  background-color:rgb(66, 68, 68);
+}
+
+header div h2 a:hover {
+  color: lightseagreen;
+} 
+
+
+
+/* ==== C O M M O N   C O D E ============================================================================== */
+
+.bg_black {background-color: black;}
+.bg_white {background-color: white;}
+.bg_aliceblue {background-color: aliceblue;}
+.bg_green {background-color: rgb(80, 128, 80);}
+.bg_blue {background-color: rgb(67, 67, 248);}
+.bg_lightGray {background-color: lightgray;}
+.bg_aquamarine {background-color: aquamarine;}
+.bg_1 {background-color: #4b4f42;}
+.bg_2 {background-color: rgb(158, 166, 172);}
+
+
+.m_0 {margin: 0;}
+.mt_0 {margin-top: 0;}
+.mt_100 {margin-top: 100px;}
+.mt_50 {margin-top: 50px;}
+.ml_30 {margin-left: 30px;}
+.mb_0 {margin-bottom: 0;}
+.mb_10 {margin-bottom: 10px;}
+.mb_70 {margin-bottom: 70px;}
+
+
+.p_0 {padding: 0;}
+.p_20 {padding: 10px;}
+.pb_100 {padding: auto;}
+
+
+.w_80 {width: 80px;}
+.w_100 {width: 100px;}
+.w_200 {width: 200px;}
+.w_550 {width: 550px;}
+.w_800 {width: 800px;}
+
+
+.h_100vh{height: 100vh;}
+.h_100p {height: 100%;}
+.h_60 {height: 60px;}
+.h_70 {height: 70px;}
+.h_100 {height: 100px;}
+.h_200 {height: 200px;}
+
+
+.color_white {color: white;}
+.color_black {color: white;}
+.color_1 {color: #c0e861;}
+.color_2 {color: #c5cfae;}
+.color_3 {color: #5f820d;}
+
+
+.position_sticky {position:-webkit-sticky; position: sticky; }
+
+
+.t_0 {top: 0;}
+
+
+.textDecoration_none {text-decoration: none;}
+
+
+.display_flex {display: flex;}
+.display_grid {display: grid;}
+.justifyContent_start {justify-content: start;}
+.justifyContent_center {justify-content: center;}
+.justifyContent_end {justify-content: end;}
+.justifyContent_spaceAround {justify-content: space-around;}
+.alignItems_start {align-items: start;}
+.alignItems_center {align-items: center;}
+.alignItems_end {align-items: end;}
+.gap_30 {gap: 30px;}
+.flexDirection_column {flex-direction: column;}
+.flexBasis_250 {flex-basis: 250px;}
+.flexBasis_500 {flex-basis: 500px;}
+
+
+.fontFamily_forte {font-family: Forte;}
+.fontFamily_calibri {font-family: Calibri;}
+
+
+.fs_20 {font-size: 20px;}
+.fs_30 {font-size: 30px;}
+.fs_50 {font-size: 50px;}
+.fs_70 {font-size: 70px;}
+
+
+.borderRadius_50p {border-radius: 50%;}
+
+
